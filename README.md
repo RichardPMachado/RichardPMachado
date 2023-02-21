@@ -4,9 +4,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  Porto Alegre - RS
 * ✉️ Contato [richardmachado@gmail.com](mailto:richardmachado@gmail.com)
 
-Estar no ramo da tecnologia, é sempre estar buscando aprender e foi exatamente isso que fez eu me voltar para essa área. Hoje sou estudante de Desenvolvimento de Software na Trybe, buscando direcionamento nesse percurso de tantos "atalhos". 
-<br>
-Dinamismo, produtividade, objetividade, proatividade e trabalho em equipe serão os nortes para essa jornada e fundamentais nessa nova carreira.
+Sou estudante de Desenvolvimento de Software na Trybe, com conhecimentos em JavaScript, TypeScript, Node.js, MySQL, Docker, MongoDB, Sequelize, POO e princípios SOLID. Estou sempre em busca de me aprimorar nessas tecnologias e aplicá-las em projetos reais. Confira meus projetos aqui no Github e entre em contato comigo se você estiver procurando por um desenvolvedor motivado e dedicado para sua equipe.
 
 ### Skills
 
