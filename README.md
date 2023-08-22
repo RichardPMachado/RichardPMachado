@@ -10,13 +10,21 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 ### Skills
 
 📍 Front-End
+
 > [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+
 📍 Back-End
+
 > [![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
+
 📍 Testing
+ 
  > [![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url]
+
 📍 DevOps
+
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
+
 ## 🏳️ Getting Started
 <div align="left" style="display: inline_block">
   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
