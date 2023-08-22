@@ -4,8 +4,9 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  Porto Alegre - RS
 * ✉️ Contato [richardmachado@gmail.com](mailto:richardmachado@gmail.com)
 
-Sou estudante de Desenvolvimento de Software na Trybe, com conhecimentos em JavaScript, TypeScript, Node.js, MySQL, Docker, MongoDB, Sequelize, POO e princípios SOLID. Estou sempre em busca de me aprimorar nessas tecnologias e aplicá-las em projetos reais. Confira meus projetos aqui no Github e entre em contato comigo se você estiver procurando por um desenvolvedor motivado e dedicado para sua equipe.
+Olá, sou Richard Machado, um entusiasta de tecnologia e desenvolvedor de software com formação em Desenvolvimento Web pela Trybe. Estou sempre em busca de aprendizado contínuo para acompanhar as tendências tecnológicas que moldam o setor.
 
+Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks como React, Redux e Next.js para criação de interfaces dinâmicas e eficientes. Além disso, possuo experiência em bancos de dados relacionais como MySQL e em ferramentas de virtualização como Docker. Utilizo ORMs como Sequelize e Prisma para desenvolver projetos escaláveis e de fácil manutenção.
 ### Skills
 
 
