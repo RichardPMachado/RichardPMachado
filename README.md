@@ -11,7 +11,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 📍 Front-End
 
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next.js-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
 
@@ -27,9 +27,9 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 ## 🏳️ Getting Started
 <div align="left" style="display: inline_block">
-  <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/arthur-debiasi" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:arthurdebiasi@hotmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+<!--   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/richard-peret-machado" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:richardmachado2211@gmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- FRONT END -->
@@ -39,6 +39,8 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [MUI]: https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white
@@ -56,7 +58,6 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [Node.js-url]: https://nodejs.org/
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
-[Typescript-url]: https://www.typescriptlang.org/
 [Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 <!-- TESTING -->
@@ -71,6 +72,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [git-url]: https://git-scm.com/doc
 [GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
+
 
 
 ### Socials
