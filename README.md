@@ -11,7 +11,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 📍 Front-End
 
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next-url][![![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
 
@@ -25,12 +25,13 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
  >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
+<!-- 
 ## 🏳️ Getting Started
 <div align="left" style="display: inline_block">
-<!--   <a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a>  -->
+<a href="https://arthur-debiasi.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-peret-machado" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:richardmachado2211@gmail.com"><img height="28rem" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
 
 <!-- FRONT END -->
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -85,4 +86,4 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 <a href="http://www.github.com/richardpmachado"><img src="https://github-readme-stats.vercel.app/api?username=richardpmachado&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="richardpmachado's GitHub stats" /></a>
 
-<a href="https://github.com/richardpmachado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpmachado&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/richardpmachado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpmachado&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
