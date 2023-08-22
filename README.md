@@ -11,7 +11,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 📍 Front-End
 
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next.js-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
 
