@@ -15,7 +15,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 📍 Back-End
 
-> [![Nest.js][Nest.js]][Nest.js-url][![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
+> [![Nest.js][Nest.js]][Nest.js-url][![JWT][JWT]][JWT-url][![Express.js][Express.js]][Express.js-url][![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
 
 📍 Testing
  
@@ -55,7 +55,11 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 <!-- BACK-END -->
 [MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://dev.mysql.com/doc/
-[Nest.js]: https://img.shields.io/badge/nest-js4479A1?style=for-the-badge&logo=nest-js&logoColor=white
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express.js-url]: https://expressjs.com/pt-br/
+[JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+[JWT-url]: https://jwt.io/
+[Nest.js]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
 [Nest.js-url]: https://nestjs.com/
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [Node.js-url]: https://nodejs.org/
