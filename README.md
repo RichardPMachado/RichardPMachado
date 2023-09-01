@@ -55,7 +55,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 <!-- BACK-END -->
 [MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://dev.mysql.com/doc/
-[Nest.js]: https://img.shields.io/badge/nest-js4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[Nest.js]: https://img.shields.io/badge/nest-js4479A1?style=for-the-badge&logo=nest-js&logoColor=white
 [Nest.js-url]: https://nestjs.com/
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [Node.js-url]: https://nodejs.org/
