@@ -11,7 +11,8 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 📍 Front-End
 
-> [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+> [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://www.typescriptlang.org/)[![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Next.js][Next.js]][Next-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+
 📍 Back-End
 
 > [![Nest.js][Nest.js]][Nest.js-url][![JWT][JWT]][JWT-url][![Express.js][Express.js]][Express.js-url][![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
