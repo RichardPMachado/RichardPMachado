@@ -38,7 +38,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-[Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript]: [https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
