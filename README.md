@@ -16,21 +16,26 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [![Python][Python]][Python-url]
 
 
-📍 Front-End
+ Front-End
 
 [![Next.js][Next.js]][Next-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Axios][Axios]][Axios-url][![Redux][React-Redux.js]][React-Redux-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![MUI][MUI]][MUI-url][![Bootstrap][Bootstrap]][Bootstrap-url]
 
-📍 Back-End
+ Back-End
 
-[![Nest.js][Nest.js]][Nest.js-url][![JWT][JWT]][JWT-url][![Express.js][Express.js]][Express.js-url][![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
+[![Nest.js][Nest.js]][Nest.js-url][![JWT][JWT]][JWT-url][![Express.js][Express.js]][Express.js-url][![Node.js][Node.js]][Node.js-url]
 
-📍 Testing
+
+ Banco de Dados e ORM
+
+[![MySQL][MySQL]][MySQL-url][![Postgresql][Postgresql]][Postgresql][![Mongodb][Mongodb]][Mongodb-url][![Prisma][Prisma]][Prisma-url][![Sequelize][Sequelize]][Sequelize-url][![Mongoose][Mongoose]][Mongoose-url]
+
+ Testing
  
-[![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url]
+[![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url][![Mocha][Mocha]][Mocha-url][![Chai][Chai]][Chai-url][![Swagger][Swagger]][Swagger-url]
 
-📍 DevOps
+ DevOps
 
- [![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
+[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
 <!-- 
 ## 🏳️ Getting Started
@@ -65,13 +70,13 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [Axios-url]: https://axios-http.com/
 
 <!-- BACK-END -->
-[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express.js]: https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express.js-url]: https://expressjs.com/pt-br/
-[JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+[JWT]: https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=JSON%20web%20tokens
 [JWT-url]: https://jwt.io/
-[Nest.js]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+[Nest.js]: https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=%23E0234E
 [Nest.js-url]: https://nestjs.com/
-[Node.js]: https://img.shields.io/badge/node.js-22272E?style=for-the-badge&logo=node.js&logoColor=339933
+[Node.js]: https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933
 [Node.js-url]: https://nodejs.org/
 [Typescript]: https://img.shields.io/badge/typescript-22272E?style=for-the-badge&logo=typescript&logoColor=3670A0
 [Typescript-url]: https://www.typescriptlang.org/
@@ -79,26 +84,40 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [Python-url]: https://www.python.org/
 
 <!-- DATABASE -->
-[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL]: https://img.shields.io/badge/mysql-22272E?style=for-the-badge&logo=mysql&logoColor=1572B6
 [MySQL-url]: https://dev.mysql.com/doc/
-[Postgresql]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[Postgresql]: https://img.shields.io/badge/postgresql-22272E?style=for-the-badge&logo=postgresql&logoColor=1572B6
 [Postgresql-url]: https://www.postgresql.org/
-
+[Mongodb]: https://img.shields.io/badge/mongodb-22272E?style=for-the-badge&logo=mongodb&logoColor=00ED64
+[Mongodb-url]: https://www.mongodb.com/pt-br
+[Sequelize]: https://img.shields.io/badge/Sequelize-22272E?style=for-the-badge&logo=Sequelize&logoColor=52B0E7
+[Sequelize-url]: https://sequelize.org/
+[Prisma]: https://img.shields.io/badge/Prisma-22272E?style=for-the-badge&logo=Prisma&logoColor=3982CE
+[Prisma-url]: https://www.prisma.io/
+[Mongoose]: https://img.shields.io/badge/mongooose-22272E?style=for-the-badge&logo=mongoose&logoColor=880000
+[Mongoose-url]: https://mongoosejs.com/
 
 <!-- TESTING -->
-[Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest]: https://img.shields.io/badge/jest-22272E?style=for-the-badge&logo=jest&logoColor=C21325
 [Jest-url]: https://jestjs.io/
-[RTL]: https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testing-library&logoColor=white
+[RTL]: https://img.shields.io/badge/testing_library-22272E?style=for-the-badge&logo=testing-library&logoColor=E33332
 [RTL-url]: https://testing-library.com/
+[Mocha]: https://img.shields.io/badge/mocha-22272E?style=for-the-badge&logo=mocha&logoColor=c29d7f
+[Mocha-url]: https://mochajs.org/
+[Chai]: https://img.shields.io/badge/chai-22272E?style=for-the-badge&logo=chai&logoColor=974942
+[Chai-url]: https://www.chaijs.com/
+[Swagger]: https://img.shields.io/badge/-Swagger-22272E?style=for-the-badge&logo=swagger&logoColor=%23Clojure
+[Swagger-url]: https://swagger.io/
+<!--[Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)-->
 
 <!-- DEV OPS -->
-[Linux]: https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
+[Linux]: https://img.shields.io/badge/linux-22272E?style=for-the-badge&logo=linux&logoColor=FCC624
 [Linux-url]: https://www.linux.org/
-[git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
-[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[git-url]: https://git-scm.com/doc
-[GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
+[git]: https://img.shields.io/badge/git-22272E?style=for-the-badge&logo=git&logoColor=F05032
+[Docker-url]: https://www.docker.com
+[Docker]: https://img.shields.io/badge/docker-22272E?style=for-the-badge&logo=docker&logoColor=2496ED
+[git-url]: https://git-scm.com/docvvvv
+[GitHub]: https://img.shields.io/badge/git_hub-22272E?style=for-the-badge&logo=github&logoColor=ffffff
 [GitHub-url]: https://github.com/
 
 
