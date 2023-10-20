@@ -8,7 +8,7 @@ Sou um entusiasta de tecnologia e desenvolvedor de software com formação em De
 
 Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks como React, Redux e Next.js para criação de interfaces dinâmicas e eficientes. Além disso, possuo experiência em bancos de dados relacionais como MySQL e em ferramentas de virtualização como Docker. Utilizo ORMs como Sequelize e Prisma para desenvolver projetos escaláveis e de fácil manutenção.
 
-### Habilidades
+# Habilidades
 
 ## Linguagens
 [![Javascript][Javascript]][Javascript-url]
@@ -16,24 +16,24 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [![Python][Python]][Python-url]
 
 
- Front-End
+### Front-End
 
 [![Next.js][Next.js]][Next-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Axios][Axios]][Axios-url][![Redux][React-Redux.js]][React-Redux-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![MUI][MUI]][MUI-url][![Bootstrap][Bootstrap]][Bootstrap-url]
 
- Back-End
+### Back-End
 
 [![Nest.js][Nest.js]][Nest.js-url][![JWT][JWT]][JWT-url][![Express.js][Express.js]][Express.js-url][![Node.js][Node.js]][Node.js-url]
 
 
- Banco de Dados e ORM
+### Banco de Dados e ORM
 
 [![MySQL][MySQL]][MySQL-url][![Postgresql][Postgresql]][Postgresql][![Mongodb][Mongodb]][Mongodb-url][![Prisma][Prisma]][Prisma-url][![Sequelize][Sequelize]][Sequelize-url][![Mongoose][Mongoose]][Mongoose-url]
 
- Testing
+### Testing
  
 [![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url][![Mocha][Mocha]][Mocha-url][![Chai][Chai]][Chai-url][![Swagger][Swagger]][Swagger-url]
 
- DevOps
+### DevOps
 
 [![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
 
@@ -50,7 +50,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3]: https://img.shields.io/badge/css_3-22272E?style=for-the-badge&logo=css3&logoColor=1572B6
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-[Javascript]: https://img.shields.io/badge/javascript-22272E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Javascript]: https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=22272E
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [Next.js]: https://img.shields.io/badge/next.js-22272E?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -80,7 +80,7 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 [Node.js-url]: https://nodejs.org/
 [Typescript]: https://img.shields.io/badge/typescript-22272E?style=for-the-badge&logo=typescript&logoColor=3670A0
 [Typescript-url]: https://www.typescriptlang.org/
-[Python]: https://img.shields.io/badge/python-22272E?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 
 <!-- DATABASE -->
@@ -123,13 +123,14 @@ Minhas habilidades incluem JavaScript, TypeScript, Node.js e o uso de frameworks
 
 
 ### Socials
-
 <p align="left"> <a href="https://www.linkedin.com/in/richard-peret-machado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/richardpmachado"><img src="https://github-readme-stats.vercel.app/api?username=richardpmachado&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="richardpmachado's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardpmachado&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardpmachado&layout=compact&theme=radical)
+
+<!-- <a href="http://www.github.com/richardpmachado"><img src="https://github-readme-stats.vercel.app/api?username=richardpmachado&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="richardpmachado's GitHub stats" /></a>-->
 
 <!-- <a href="https://github.com/richardpmachado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardpmachado&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
